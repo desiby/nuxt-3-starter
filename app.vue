@@ -5,7 +5,7 @@
       <h2>Click on the buttons below to check out a server route or an API route :) </h2>
       <NuxtLink to="/hello" target="_blank">
         <button> 
-            What Time Is It?
+            Get the time
         </button>
       </NuxtLink>
       <NuxtLink to="/api/hello" target="_blank">
